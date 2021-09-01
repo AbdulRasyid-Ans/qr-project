@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "qr-project",
+    "slug": "qr-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "qr-project"
+}
